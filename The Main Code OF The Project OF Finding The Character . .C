@@ -22,10 +22,10 @@ void loop () {
   if (Serial.available () > 0 ) {
 
 
-    char The Character = (char) Serial.read ();
+    char TheCharacter = (char) Serial.read ();
 
 
-    if ( The Character == ' A ' ) {
+    if ( TheCharacter == ' A ' ) {
 
 
       Serial.print (" * * * * The Character : A * * * * ");                                                                           // Show The Desired Message .
