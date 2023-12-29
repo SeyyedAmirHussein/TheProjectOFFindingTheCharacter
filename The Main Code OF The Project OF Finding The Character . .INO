@@ -2,7 +2,7 @@
 
 // In this program, We want to receive a Character from The Serial Monitor, and if this Character is ' A ' , it prints The phrase " Character, A " on The Serial Monitor, otherwise The phrase " A Not Found " will be printed .
 
-// The Main Code OF The Project OF Finding The Character . .INO .
+// The Main Code OF The Project OF Finding The Character . . INO . .
 
 
 
